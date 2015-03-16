@@ -27,8 +27,8 @@ if (_setVolume) then {
     player setVariable ["tf_unable_to_use_radio", false];
 
     // ACRE2
-    player setVariable ["acre_sys_core_globalVolume", NORMAL_LEVEL];
-     player setVariable ["acre_sys_core_isDisabled", false, true];
+    [NORMAL_LEVEL] call acre_api_fnc_setGlobalVolume;
+    player setVariable ["acre_sys_core_isDisabled", false, true];
 
 } else {
     // Vanilla Game
@@ -40,7 +40,7 @@ if (_setVolume) then {
     player setVariable ["tf_unable_to_use_radio", true];
 
     // ACRE2
-    player setVariable ["acre_sys_core_globalVolume", MUTED_LEVEL];
+    [MUTED_LEVEL] call acre_api_fnc_setGlobalVolume;
     player setVariable ["acre_sys_core_isDisabled", true, true];
 
 };
