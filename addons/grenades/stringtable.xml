@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2014-09-11 -->
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!-- Edited with tabler - 2015-04-10 -->
 <Project name="ACE">
   <Package name="Grenades">
     <Key ID="STR_ACE_Grenades_SwitchGrenadeMode">
@@ -154,7 +154,7 @@
       <Italian>Bengala (Bianco)</Italian>
       <Polish>Flara ręczna (biała)</Polish>
       <Portuguese>Sinalizador (Branco)</Portuguese>
-      <Russian>Фальшфейер (Белый)</Russian>
+      <Russian>Фальшфайер (Белый)</Russian>
       <Spanish>Bengala (Blanca)</Spanish>
       <French>Feux à main (Blanc)</French>
     </Key>

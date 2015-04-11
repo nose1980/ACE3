@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2014-12-17 -->
+<!-- Edited with tabler - 2015-04-12 -->
 <Project name="ACE">
   <Package name="NightVision">
     <Key ID="STR_ACE_NightVision_NVG_Gen1">
@@ -10,7 +10,7 @@
       <Italian>Occhiali notturni (Gen1)</Italian>
       <Polish>Gogle noktowizyjne (Gen1)</Polish>
       <Portuguese>Óculos de visão noturna (Gen1)</Portuguese>
-      <Russian>ПНВ (Gen1)</Russian>
+      <Russian>ПНВ 1-го поколения</Russian>
       <Spanish>Sistema de visión nocturna (Gen1)</Spanish>
     </Key>
     <Key ID="STR_ACE_NightVision_NVG_Gen2">
@@ -21,7 +21,7 @@
       <Italian>Occhiali notturni (Gen2)</Italian>
       <Polish>Gogle noktowizyjne (Gen2)</Polish>
       <Portuguese>Óculos de visão noturna (Gen2)</Portuguese>
-      <Russian>ПНВ (Gen2)</Russian>
+      <Russian>ПНВ 2-го поколения</Russian>
       <Spanish>Sistema de visión nocturna (Gen2)</Spanish>
     </Key>
     <Key ID="STR_ACE_NightVision_NVG_Gen3">
@@ -32,7 +32,7 @@
       <Italian>Occhiali notturni (Gen3)</Italian>
       <Polish>Gogle noktowizyjne (Gen3)</Polish>
       <Portuguese>Óculos de visão noturna (Gen3)</Portuguese>
-      <Russian>ПНВ (Gen3)</Russian>
+      <Russian>ПНВ 3-го поколения </Russian>
       <Spanish>Sistema de visión nocturna (Gen3)</Spanish>
     </Key>
     <Key ID="STR_ACE_NightVision_NVG_Gen3_brown">
@@ -43,7 +43,7 @@
       <Italian>Occhiali notturni (Gen3, marroni)</Italian>
       <Polish>Gogle noktowizyjne (Gen3, brązowe)</Polish>
       <Portuguese>Óculos de visão noturna (Gen3, marrons)</Portuguese>
-      <Russian>ПНВ (Gen3, коричневый)</Russian>
+      <Russian>ПНВ 3-го поколения, коричневый</Russian>
       <Spanish>Sistema de visión nocturna (Gen3, marrón)</Spanish>
     </Key>
     <Key ID="STR_ACE_NightVision_NVG_Gen3_green">
@@ -54,7 +54,7 @@
       <Italian>Occhiali notturni (Gen3, verdi)</Italian>
       <Polish>Gogle noktowizyjne (Gen3, zielone)</Polish>
       <Portuguese>Óculos de visão noturna (Gen3, verdes)</Portuguese>
-      <Russian>ПНВ (Gen3, зеленый)</Russian>
+      <Russian>ПНВ 3-го поколения, зеленый</Russian>
       <Spanish>Sistema de visión nocturna (Gen3, verde)</Spanish>
     </Key>
     <Key ID="STR_ACE_NightVision_NVG_Gen3_black">
@@ -65,7 +65,7 @@
       <Italian>Occhiali notturni (Gen3, neri)</Italian>
       <Polish>Gogle noktowizyjne (Gen3, czarne)</Polish>
       <Portuguese>Óculos de visão noturna (Gen3, pretos)</Portuguese>
-      <Russian>ПНВ (Gen3, черный)</Russian>
+      <Russian>ПНВ 3-го поколения, черный</Russian>
       <Spanish>Sistema de visión nocturna (Gen3, negro)</Spanish>
     </Key>
     <Key ID="STR_ACE_NightVision_NVG_Gen4">
@@ -76,7 +76,7 @@
       <Italian>Occhiali notturni (Gen4)</Italian>
       <Polish>Gogle noktowizyjne (Gen4)</Polish>
       <Portuguese>Óculos de visão noturna (Gen4)</Portuguese>
-      <Russian>ПНВ (Gen4)</Russian>
+      <Russian>ПНВ 4-го поколения</Russian>
       <Spanish>Sistema de visión nocturna (Gen4)</Spanish>
     </Key>
     <Key ID="STR_ACE_NightVision_NVG_FullScreen">
@@ -85,7 +85,7 @@
       <Spanish>Sistema de visión nocturna (Panorámicas)</Spanish>
       <Polish>Gogle noktowizyjne (panoramiczne)</Polish>
       <Czech>Noktovizor (Široký)</Czech>
-      <Russian>ПНВ (Широкий)</Russian>
+      <Russian>ПНВ Широкоугольный</Russian>
     </Key>
     <Key ID="STR_ACE_NightVision_NVGBrightness">
       <English>Brightness: %1</English>
@@ -94,7 +94,7 @@
       <Polish>Czułość: %1</Polish>
       <Czech>Zvýšení: %1</Czech>
       <French>Luminosité : %1</French>
-      <Russian>Контраст: </Russian>
+      <Russian>Контраст: %1</Russian>
       <Hungarian>Fényerő: %1</Hungarian>
       <Portuguese>Luminosidade: %1</Portuguese>
       <Italian>Luminosità: %1</Italian>

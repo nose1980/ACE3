@@ -1,12 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2014-12-20 -->
+<!-- Edited with tabler - 2015-04-12 -->
 <Project name="ACE">
   <Package name="WeaponSelect">
     <Key ID="STR_ACE_Weaponselect_SettingDisplayTextName">
       <English>Display text on grenade throw</English>
+      <Russian>Показывать текст при броске гранаты</Russian>
     </Key>
     <Key ID="STR_ACE_Weaponselect_SettingDisplayTextDesc">
       <English>Display a hint or text on grenade throw.</English>
+      <Russian>Показывать текст или подсказку при броске гранаты</Russian>
     </Key>
     <Key ID="STR_ACE_WeaponSelect_SelectPistol">
       <English>Select Pistol</English>
@@ -202,7 +204,7 @@
       <Polish>Brak granatów</Polish>
       <Czech>Žádné granáty</Czech>
       <Hungarian>Nincs több gránát</Hungarian>
-      <Russian>Гранат не осталось</Russian>
+      <Russian>Гранат нет</Russian>
     </Key>
     <Key ID="STR_ACE_WeaponSelect_NoFragsLeft">
       <English>No frags left</English>
@@ -226,7 +228,7 @@
       <Czech>Už nejsou žádné ostatní granáty</Czech>
       <Portuguese>Não há outras granadas restantes</Portuguese>
       <Italian>Nessun'altra granata rimanente.</Italian>
-      <Russian>Невзрывоопасные гранаты закончились</Russian>
+      <Russian>Нелетальных гранат нет</Russian>
     </Key>
     <Key ID="STR_ACE_WeaponSelect_NoGrenadeSelected">
       <English>No grenade selected</English>
@@ -238,7 +240,7 @@
       <Czech>Není zvolen žádný granát</Czech>
       <Portuguese>Nenhuma granada selecionada</Portuguese>
       <Italian>Nessuna granata selezionata</Italian>
-      <Russian>Нет выбранной гранаты</Russian>
+      <Russian>Гранаты не выбрано</Russian>
     </Key>
     <Key ID="STR_ACE_WeaponSelect_FireSmokeLauncher">
       <English>Fire Smoke Launcher</English>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2015-01-23 -->
+<!-- Edited with tabler - 2015-04-12 -->
 <Project name="ACE">
   <Package name="OptionsMenu">
     <Key ID="STR_ACE_OptionsMenu_OpenConfigMenu">
@@ -24,7 +24,7 @@
     <Key ID="STR_ACE_OptionsMenu_TabColors">
       <English>Colors</English>
       <German>Farben</German>
-      <Russian>цвета</Russian>
+      <Russian>Цвета</Russian>
       <Spanish>Colors</Spanish>
     </Key>
     <Key ID="STR_ACE_OptionsMenu_TabOptions">
@@ -70,7 +70,7 @@
       <English>Setting:</English>
       <Czech>Nastavení:</Czech>
       <German>Einstellung:</German>
-      <Russian>Yстановки:</Russian>
+      <Russian>Установки:</Russian>
       <Spanish>Ajuste:</Spanish>
     </Key>
     <Key ID="STR_ACE_OptionsMenu_Export">

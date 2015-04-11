@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2015-02-08 -->
+<!-- Edited with tabler - 2015-04-11 -->
 <Project name="ACE">
   <Package name="MagazineRepack">
     <Key ID="STR_ACE_MagazineRepack_RepackMagazines">
@@ -12,7 +12,7 @@
       <Italian>Ricarica&lt;br/&gt;Caricatori</Italian>
       <Portuguese>Reorganizar&lt;br/&gt;Carregadores</Portuguese>
       <Hungarian>Újratárazás&lt;br/&gt;</Hungarian>
-      <Russian>Перепаковать&lt;br/&gt;магазины</Russian>
+      <Russian>Переснарядить&lt;br/&gt;магазины</Russian>
     </Key>
     <Key ID="STR_ACE_MagazineRepack_SelectMagazineMenu">
       <English>Select Magazine Menu</English>
@@ -48,7 +48,7 @@
       <Italian>Sto ricaricando le munizioni ...</Italian>
       <Portuguese>Reorganizando Carregadores ...</Portuguese>
       <Hungarian>Újratárazás ...</Hungarian>
-      <Russian>Перепаковка магазинов ...</Russian>
+      <Russian>Переснаряжение магазинов ...</Russian>
     </Key>
     <Key ID="STR_ACE_MagazineRepack_RepackedMagazines">
       <English>Repacked Magazines</English>
@@ -60,7 +60,7 @@
       <Italian>Caricatore ricaricato</Italian>
       <Portuguese>Carregadores Reorganizados</Portuguese>
       <Hungarian>Újratárazott tárak</Hungarian>
-      <Russian>Магазины перепакованы</Russian>
+      <Russian>Магазины переснаряжены</Russian>
     </Key>
     <Key ID="STR_ACE_MagazineRepack_RepackedMagazinesDetail">
       <English>%1 full mag(s) and %2 extra round(s)</English>
@@ -78,16 +78,19 @@
       <English>Repacking Finished</English>
       <German>Wiederverpacken Fertig</German>
       <Spanish>Reembalaje Finalizado</Spanish>
+      <Russian>Переснаряжение завершено</Russian>
     </Key>
     <Key ID="STR_ACE_MagazineRepack_RepackInterrupted">
       <English>Repacking Interrupted</English>
       <German>Umpacken Unterbrochen</German>
       <Spanish>Reempaque Interrupted</Spanish>
+      <Russian>Переснаряжение прервано</Russian>
     </Key>
     <Key ID="STR_ACE_MagazineRepack_RepackedMagazinesCount">
       <English>%1 Full and %2 Partial</English>
       <German>%1 Vollständigen und %2 Teilweisen</German>
       <Spanish>%1 Total y %2 Parcial</Spanish>
+      <Russian>Переснаряженные магазины: %1 Полные, %2 Неполные</Russian>
     </Key>
   </Package>
 </Project>

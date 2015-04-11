@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2015-04-07 -->
+<!-- Edited with tabler - 2015-04-11 -->
 <Project name="ACE">
   <Package name="Common">
     <Key ID="STR_ACE_Common_ACETeam">
@@ -300,24 +300,28 @@
       <Spanish>Aceptar Peticiones</Spanish>
       <English>Accept Requests</English>
       <German>Anfrage annehmen</German>
+      <Russian>Одобрить запрос</Russian>
     </Key>
     <Key ID="STR_ACE_ACTION_DECLINE_REQUEST_KEY_TITLE">
       <Polish>Ignoruj prośby</Polish>
       <Spanish>Rechazar Peticiones</Spanish>
       <English>Decline Requests</English>
       <German>Anfrage ablehnen</German>
+      <Russian>Отклонить запрос</Russian>
     </Key>
     <Key ID="STR_ACE_ACTION_ACCEPT_REQUEST_KEY_TOOLTIP">
       <Polish>Akceptuj prośby wysłane przez innych graczy. Akceptacji wymagają między innymi akcje używania / współdzielenia wyposażenia, wykonywania określonych czynności.</Polish>
       <Spanish>Acepta Peticiones de otros jugadores. Pueden ser solicitudes para usar / compartir equipamiento, realizar ciertas acciones.</Spanish>
       <English>Accept Requests send by other players. These can be requests to use / share equipment, perform certain actions.</English>
       <German>Anfragen anderer Spieler annehmen. Diese Anfragen können sich auf das Benutzen / Teilen von Equipment beziehen oder das Ausführen bestimmter Aktionen.</German>
+      <Russian>Одобрить запросы, отправленные другими игроками. Запросы могут представлять собой просьбы разрешить использование инвентаря или выполнить какое-либо действий.</Russian>
     </Key>
     <Key ID="STR_ACE_ACTION_DECLINE_REQUEST_KEY_TOOLTIP">
       <Polish>Ignoruj prośby wysłane przez innych graczy. Akceptacji wymagają między innymi akcje używania / współdzielenia wyposażenia, wykonywania określonych czynności.</Polish>
       <Spanish>Rechazar Peticiones de otros jugadores. Pueden ser solicitudes para usar / compartir equipamiento, realizar ciertas acciones.</Spanish>
       <English>Decline Requests send by other players. These can be requests to use / share equipment, perform certain actions.</English>
       <German>Anfragen anderer Spieler ablehnen. Diese Anfragen können sich auf das Benutzen / Teilen von Equipment beziehen oder das Ausführen bestimmter Aktionen.</German>
+      <Russian>Отклонить запрос, отправленный другими игроками. Запросы могут представлять собой просьбы разрешить использование инвентаря или выполнить какое-либо действие.</Russian>
     </Key>
     <Key ID="STR_ACE_Common_SettingFeedbackIconsName">
       <English>Feedback icons</English>

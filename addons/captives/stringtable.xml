@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2015-04-07 -->
+<!-- Edited with tabler - 2015-04-11 -->
 <Project name="ACE">
   <Package name="Captives">
     <Key ID="STR_ACE_Captives_SetCaptive">
@@ -70,7 +70,7 @@
       <Polish>Załaduj więźnia</Polish>
       <Czech>Naložit zajatce</Czech>
       <Hungarian>Fogoly berakása</Hungarian>
-      <Russian>Загрузить пленного</Russian>
+      <Russian>Погрузить пленного</Russian>
       <Portuguese>Embarcar Prisioneiro</Portuguese>
     </Key>
     <Key ID="STR_ACE_Captives_UnloadCaptive">
@@ -134,11 +134,13 @@
       <English>Surrender</English>
       <German>Kapitulieren</German>
       <Spanish>Rendirse</Spanish>
+      <Russian>Сдаться в плен</Russian>
     </Key>
     <Key ID="STR_ACE_Captives_StopSurrendering">
       <English>Stop Surrendering</English>
       <German>Den Kampf erneut aufnehmen</German>
       <Spanish>Dejar de rendirse</Spanish>
+      <Russian>Прекратить сдаваться</Russian>
     </Key>
     <Key ID="STR_ACE_Captives_Zeus_OnlyAlive">
       <English>Only use on alive units</English>
@@ -154,6 +156,7 @@
       <English>Nothing under mouse</English>
       <German>Es wurde nichts ausgewählt</German>
       <Spanish>Nada bajo el ratón</Spanish>
+      <Russian>Ничего не выбрано</Russian>
     </Key>
   </Package>
 </Project>

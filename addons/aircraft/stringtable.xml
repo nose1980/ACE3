@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2014-12-12 -->
+<!-- Edited with tabler - 2015-04-10 -->
 <Project name="ACE">
   <Package name="Aircraft">
     <Key ID="STR_ACE_Aircraft_CMFlareLauncher_Burst_Name">
@@ -34,7 +34,7 @@
       <Polish>Otwórz drzwi ładowni</Polish>
       <Czech>Otevřít nákladní prostor</Czech>
       <Hungarian>Rámpát kinyitni</Hungarian>
-      <Russian>Открыть грузовой отсек</Russian>
+      <Russian>Открыть грузовой люк</Russian>
     </Key>
     <Key ID="STR_ACE_Aircraft_CloseCargoRamp">
       <English>Close Cargo Door</English>
@@ -44,7 +44,7 @@
       <Polish>Zamknij drzwi ładowni</Polish>
       <Czech>Zavřít nákladní prostor</Czech>
       <Hungarian>Rámpát zárni</Hungarian>
-      <Russian>Закрыть грузовой отсек</Russian>
+      <Russian>Закрыть грузовой люк</Russian>
     </Key>
   </Package>
 </Project>

@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<!-- Edited with tabler - 2015-04-07 -->
+<!-- Edited with tabler - 2015-04-11 -->
 <Project name="ACE">
   <Package name="Attach">
     <Key ID="STR_ACE_Attach_AttachDetach">
@@ -12,7 +12,7 @@
       <Portuguese>Acoplar item &gt;&gt;</Portuguese>
       <Italian>Attacca l'oggetto &gt;&gt;</Italian>
       <Hungarian>Tárgy hozzácsatolása &gt;&gt;</Hungarian>
-      <Russian>Добавить приспособления</Russian>
+      <Russian>Присоединить предмет &gt;&gt;</Russian>
     </Key>
     <Key ID="STR_ACE_Attach_Attach">
       <English>Attach</English>
@@ -156,6 +156,7 @@
       <Portuguese>Colocar</Portuguese>
       <Italian>Posiziona</Italian>
       <Hungarian>Elhelyez</Hungarian>
+      <Russian>Разместить</Russian>
     </Key>
     <Key ID="STR_ACE_Attach_CancelAction">
       <English>Cancel</English>
@@ -167,12 +168,13 @@
       <Portuguese>Cancelar</Portuguese>
       <Italian>Annulla</Italian>
       <Hungarian>Mégse</Hungarian>
+      <Russian>Отменить</Russian>
     </Key>
     <Key ID="STR_ACE_Attach_Failed">
       <English>Attach Failed</English>
       <French>Échec du Attacher</French>
       <German>Befestigen fehlgeschlagen</German>
-      <Russian>Присоединить Ошибка</Russian>
+      <Russian>Не удалось присоединить</Russian>
       <Spanish>Error al acoplar</Spanish>
     </Key>
   </Package>
