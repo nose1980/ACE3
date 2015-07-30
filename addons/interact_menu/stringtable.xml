@@ -5,22 +5,27 @@
     <Key ID="STR_ACE_Interact_Menu_AlwaysUseCursorSelfInteraction">
       <English>Always display cursor for self interaction</English>
       <German>Immer den Cursor für Selbst-Interaktionen anzeigen.</German>
+      <Russian>Всегда показывать курсор в режиме действия с собой</Russian>
     </Key>
     <Key ID="STR_ACE_Interact_Menu_InteractKey">
       <English>Interact Key</English>
       <German>Interaktionstaste</German>
+      <Russian>Кнопка взаимодействия</Russian>
     </Key>
     <Key ID="STR_ACE_Interact_Menu_SelfInteractKey">
       <English>Self Interaction Key</English>
       <German>Selbst-Interaktionstaste</German>
+      <Russian>Кнопка действия с собой</Russian>
     </Key>
     <Key ID="STR_ACE_Interact_Menu_SelfActionsRoot">
       <English>Self Actions</English>
       <German>Selbst-Interaktion</German>
+      <Russian>Действия с собой</Russian>
     </Key>
     <Key ID="STR_ACE_Interact_Menu_VehicleActionsRoot">
       <English>Vehicle Actions</English>
       <German>Fahrzeug-Interaktion</German>
+      <Russian>Действия с техникой</Russian>
     </Key>
   </Package>
 </Project>
