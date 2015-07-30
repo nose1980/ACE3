@@ -4,18 +4,22 @@
     <Key ID="STR_ACE_Respawn_Deploy">
       <English>Deploy in 5 seconds ...</English>
       <German>Wird in 5 Sekunden errichtet ...</German>
+      <Russian>Развертывание через 5 секунд ...</Russian>
     </Key>
     <Key ID="STR_ACE_Respawn_Deployed">
       <English>Rallypoint deployed</English>
       <German>Rallypoint errichtet</German>
+      <Russian>Сборный пункт развернут</Russian>
     </Key>
     <Key ID="STR_ACE_Respawn_TeleportedToBase">
       <English>Teleported to Base</English>
       <German>Zur Basis teleportiert</German>
+      <Russian>Телепортирован на Базу</Russian>
     </Key>
     <Key ID="STR_ACE_Respawn_TeleportedToRallypoint">
       <English>Teleported to Rallypoint</English>
       <German>Zum Rallypoint teleportiert</German>
+      <Russian>Телепортирован на Сборный пункт</Russian>
     </Key>
   </Package>
 </Project>
